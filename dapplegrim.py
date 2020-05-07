@@ -29,7 +29,9 @@ class Death(Scene):
 
     quips = [
         "So much horse anger... horse pain... ",
-         "Kingsblood tastes saccharine"
+         "Kingsblood tastes saccharine",
+        "The light...it burns my eyes...MY EYES",
+        
     ]
 
     def enter(self):
