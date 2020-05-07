@@ -63,3 +63,18 @@ structure: {
 
   }
 }
+
+scaffoldingGame: {
+  roomOne: {
+    optionOne: death(),
+    optionTwo: Scaffolding
+  },
+  roomTwo: {
+    optionOne: scaffolding,
+    optoinTwo: catastrophe,
+    optionThree: death()
+  }
+  death: {
+    deathOne: "your home has collapsed due to fungal genocide."
+  }
+}
